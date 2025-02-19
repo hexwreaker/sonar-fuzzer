@@ -10,7 +10,7 @@
 [![Github All Releases](https://img.shields.io/github/downloads/hexwreaker/sonar-fuzzer/total.svg)](https://img.shields.io/github/last-commit/hexwreaker/sonar-fuzzer/releases/)
 
 <p style='min-height: 150px;'>
-A black box fuzzer project, currently in developpement. Only works for x86 target for instance.sdfjhsdkfjhskdjfhksdjhfksjhdkfjhsdkjfhfffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffmlzkjvmqlkdjfmlqhsdmovqihermoh
+A black box fuzzer project, currently in developpement. Only works for x86 target for instance.
 </p>
 
 ## How it works
