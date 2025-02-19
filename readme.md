@@ -2,8 +2,7 @@
 
 # Sonar-fuzz
 
-<img width='300px' src='./cover-image.jpg' align=right/>
-
+<img width='200px' src='./cover-image.jpg' align="right" style="border-radius: 10px; box-shadow: 0px 0px 5px 0px; margin: 20px;"/>
 
 [![Github last commits](https://img.shields.io/github/last-commit/hexwreaker/sonar-fuzzer)](https://github.com/hexwreaker/sonar-fuzzer/commits/master)
 [![Github commit number](https://img.shields.io/github/commit-activity/t/hexwreaker/sonar-fuzzer)](https://github.com/hexwreaker/sonar-fuzzer/commits/master)
