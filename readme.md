@@ -2,6 +2,13 @@
 
 # Sonar-fuzz
 
+<img width='300px' src='./cover-image.jpg' align=right/>
+
+
+[![Github commits](https://img.shields.io/github/last-commit/hexwreaker/sonar-fuzzer)](https://github.com/hexwreaker/sonar-fuzzer/commits/master)
+[![GitHub contributors](https://img.shields.io/github/contributors/hexwreaker/sonar-fuzzer)](https://img.shields.io/github/last-commit/hexwreaker/sonar-fuzzer/graphs/contributors)
+[![Github All Releases](https://img.shields.io/github/downloads/hexwreaker/sonar-fuzzer/total.svg)](https://img.shields.io/github/last-commit/hexwreaker/sonar-fuzzer/releases/)
+
 A black box fuzzer project, currently in developpement. Only works for x86 target for instance.
 
 ## How it works
