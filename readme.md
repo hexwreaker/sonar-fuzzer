@@ -5,7 +5,8 @@
 <img width='300px' src='./cover-image.jpg' align=right/>
 
 
-[![Github commits](https://img.shields.io/github/last-commit/hexwreaker/sonar-fuzzer)](https://github.com/hexwreaker/sonar-fuzzer/commits/master)
+[![Github last commits](https://img.shields.io/github/last-commit/hexwreaker/sonar-fuzzer)](https://github.com/hexwreaker/sonar-fuzzer/commits/master)
+[![Github commit number](https://img.shields.io/github/commit-activity/t/hexwreaker/sonar-fuzzer)](https://github.com/hexwreaker/sonar-fuzzer/commits/master)
 [![GitHub contributors](https://img.shields.io/github/contributors/hexwreaker/sonar-fuzzer)](https://img.shields.io/github/last-commit/hexwreaker/sonar-fuzzer/graphs/contributors)
 [![Github All Releases](https://img.shields.io/github/downloads/hexwreaker/sonar-fuzzer/total.svg)](https://img.shields.io/github/last-commit/hexwreaker/sonar-fuzzer/releases/)
 
